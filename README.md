@@ -38,7 +38,7 @@ Power BI · Tableau · IBM Cognos · Bullhorn Canvas · Crystal Reports
 
 **Leadership:** Senior Director of Technology · VP of Technology · CTO · CIO
 
-**Architecture & Practice:** Director of Technology · Principal Architect · Solutions Architect · Enterprise Architect
+**Architecture & Practice:** Technology Director · Principal Architect · Solutions Architect · Enterprise Architect
 
 Remote-first. Available immediately.
 

@@ -1,6 +1,6 @@
 # Jamie Butler
 
-**Technology Executive & Enterprise Systems Architect**
+**Technology Leader & Enterprise Systems Architect**
 
 Houston, TX &nbsp;·&nbsp; Remote-first &nbsp;·&nbsp; Available immediately
 
@@ -8,7 +8,7 @@ Houston, TX &nbsp;·&nbsp; Remote-first &nbsp;·&nbsp; Available immediately
 
 I build enterprise technology ecosystems — and lead the teams that operate them. Twenty years across legal services, healthcare staffing, financial services, manufacturing, retail, and education, doing both: architecting and implementing the systems, and owning the strategy, governance, and execution at the leadership level.
 
-I am equally at home designing a Salesforce data model, executing an ERP migration, and presenting a technology roadmap to a board. That combination — technical depth paired with executive thinking — is what I bring to every organization I work with.
+I am equally at home designing a Salesforce data model, executing an ERP migration, and presenting a technology roadmap to a board. That combination — technical depth paired with leadership thinking — is what I bring to every organization I work with.
 
 ---
 
@@ -24,7 +24,7 @@ NetSuite → Sage Intacct · Oracle E-Business → MS Dynamics · Macola · Sage
 Microsoft 365 · Azure · Entra ID · SharePoint · Teams · AWS · Google Workspace
 
 **Automation, AI & Integration**
-Power Automate · Zapier · GPT agents · LLM integration · AI IVR · end-to-end ATS-to-payroll-to-ERP pipelines
+Power Automate · Zapier · Claude · ChatGPT · N8N · Together AI · GPT agents · LLM integration · AI IVR · end-to-end ATS-to-payroll-to-ERP pipelines
 
 **Security & ITSM**
 NinjaOne · Sophos · SentinelOne · MSSP deployment · VPN · Jira Cloud · JSM · ServiceNow · Zoom Phone
@@ -36,7 +36,7 @@ Power BI · Tableau · IBM Cognos · Bullhorn Canvas · Crystal Reports
 
 ## Currently Open To
 
-**Leadership:** Senior Director of Technology · VP of Technology · CTO · CIO
+**Leadership:** Senior Director of Technology · VP of Technology | vCTO · vCIO Advisory
 
 **Architecture & Practice:** Technology Director · Principal Architect · Solutions Architect · Enterprise Architect
 
@@ -48,4 +48,4 @@ Remote-first. Available immediately.
 
 🌐 &nbsp;[jamiebutler.vercel.app](https://jamiebutler.vercel.app)
 &nbsp;&nbsp;💼 &nbsp;[linkedin.com/in/jamieadambutler](https://linkedin.com/in/jamieadambutler)
-&nbsp;&nbsp;📬 &nbsp;[jamieadambutler@gmail.com](mailto:jamieadambutler@gmail.com)
+&nbsp;&nbsp;📬 &nbsp;[jamieadambutler@icloud.com](mailto:jamieadambutler@icloud.com)
